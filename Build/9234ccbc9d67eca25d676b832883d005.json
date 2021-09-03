@@ -1,0 +1,13 @@
+{
+"companyName": "Centrinova Solusi Edukasi",
+"productName": "MazeGame Project",
+"dataUrl": "d86341ce1979f17a72e065971d6f0719.unityweb",
+"wasmCodeUrl": "5aaf8945514917df0d91e28abb92f72b.unityweb",
+"wasmFrameworkUrl": "050972d1f450f126d5df30f7a17c19b6.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
